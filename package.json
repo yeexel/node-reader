@@ -1,5 +1,6 @@
 {
     "name": "node-reader",
+    "bin": "./bin/node-reader.js",
     "description": "Node.js command line RSS reader",
     "version": "0.0.1",
     "author": "Oleksii Kulikov",
