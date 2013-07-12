@@ -2,7 +2,7 @@
     "name": "node-reader",
     "bin": {"node-reader": "./bin/node-reader.js"},
     "description": "Node.js command line RSS reader",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": "Oleksii Kulikov",
     "homepage": "https://github.com/yeexel/node-reader",
     "bugs": "https://github.com/yeexel/node-reader/issues",
