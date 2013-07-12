@@ -122,7 +122,7 @@ var Reader = function() {
     }
 
     function help() {
-        console.log('node-reader (nr) / ver. 0.0.1');
+        console.log('node-reader (nr) / ver. 0.0.2');
         console.log('Usage:');
         console.log('$ nr --read "<alias>" // read RSS feed');
         console.log('$ nr --add "<alias>" "<url>" // add RSS feed');
